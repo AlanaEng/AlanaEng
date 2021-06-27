@@ -1,6 +1,9 @@
 -👋 Olá, sou @AlanaEng
+
 -👀 Estou interessado em Ciência de dados, Visão computacional, Inteligência Artificial.
+
 -🌱 Atualmente, estou aprendendo tudo sobre Dados.
+
 -📫 Como me encontrar alana.melo.eng@gmail.com
 
 <!---
