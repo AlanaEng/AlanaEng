@@ -1,4 +1,4 @@
--👋 Olá, sou @AlanaEng
+-👋 Olá, sou @alanacientistadedados  -> me sigam no Instagram
 
 -👀 Estou interessado em Ciência de dados, Visão computacional, Inteligência Artificial ...
 
