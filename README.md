@@ -1,6 +1,6 @@
 -👋 Olá, sou @alanacientistadedados  -> me sigam no Instagram
 
--👀 Estou interessado em Ciência de dados, Visão computacional, Inteligência Artificial ...
+-👀 Estou interessada em Ciência de dados, Visão computacional, Inteligência Artificial ...
 
 -🌱 Atualmente, estou aprendendo tudo sobre Dados.
 
